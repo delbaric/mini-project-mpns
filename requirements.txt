@@ -1,4 +1,4 @@
 gspread==3.5.0
 oauth2client==4.1.3
-tqdm==4.45.0
+tqdm==4.66.3
 virustotal-api==1.1.11
